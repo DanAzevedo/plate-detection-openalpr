@@ -1,2 +1,2 @@
-# plate-detetection-openalpr
+# plate-detection-openalpr
  
