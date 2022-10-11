@@ -133,7 +133,7 @@ streamFrame.place(relwidth=1, relheight=0.2)
 
 streamSrc = Entry(streamFrame)
 streamSrc.place(relwidth=0.75, relheight=0.6, relx=0.025, rely=0.15)
-streamSrc.insert(0, "C:\\Users\\jfna\\Documents\\plate-detection-openalpr\\output3.avi")
+streamSrc.insert(0, "file or cam source")
 
 streamStartBtn = Button(streamFrame, text="Iniciar", command=show_frame)
 streamStartBtn.place(relwidth=0.25, relheight=0.6, relx=0.75, rely=0.15)
